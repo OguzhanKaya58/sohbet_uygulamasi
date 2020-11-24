@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sohbet</string>
+    <string name="facebook_app_id">359338161793602</string>
+    <string name="fb_login_protocol_scheme">fb359338161793602</string>
+    <string name="default_notification_channel_id">varsayılan</string>
+</resources>
